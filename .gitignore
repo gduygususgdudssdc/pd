@@ -1,0 +1,14 @@
+# 依赖大文件夹
+node_modules/
+# 打包产物
+dist/
+# 压缩包
+*.zip
+# VSCode配置
+.vscode/
+# 系统缓存文件
+Thumbs.db
+.DS_Store
+# 日志文件
+*.log
+pnpm-lock.yaml

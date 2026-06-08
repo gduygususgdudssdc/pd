@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "拼豆设计"
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "Bead Weaver"
+      }
+    },
+    {
+      "path": "pages/result/result",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "生成结果"
+      }
+    },
+
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "我的"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Bead Weaver",
+    "navigationBarBackgroundColor": "#e4eff8",
+    "backgroundColor": "#e4eff8"
+  }
+}
