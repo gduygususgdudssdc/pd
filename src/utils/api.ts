@@ -1,4 +1,4 @@
-const BASE_URL = 'http://47.98.102.162:5000/api';
+const BASE_URL = 'http://47.98.102.162:5001/api';
 
 export interface ApiResponse<T = any> {
   success: boolean;

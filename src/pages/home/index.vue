@@ -2,7 +2,7 @@
   <view class="page-container">
     <AuthModal :visible="showAuthModal" @close="showAuthModal = false" @success="onAuthSuccess" />
 
-    <text class="decor home-star-1">★</text>
+    <text class="decor home-star-1">分支</text>
     <text class="decor home-star-2">★</text>
     <text class="decor home-star-3">★</text>
     <view class="decor pill-1"></view>
